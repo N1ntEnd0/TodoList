@@ -1,7 +1,6 @@
-import React, { useState } from "react";
-import { Text, View } from "react-native";
+import React from "react";
+import { View } from "react-native";
 import Picker from "../Picker/Picker";
-import DropDownPicker from 'react-native-dropdown-picker';
 import StyleHeader from "./StyleHeader";
 import Statistics from "../Statistics/Statistics";
 

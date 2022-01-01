@@ -2,10 +2,11 @@ import React from "react";
 import StyleStatistics from "./StyleStatistics";
 import Icon from 'react-native-vector-icons/Entypo';
 import { View, Text } from "react-native";
+import { useSelector } from "react-redux";
 
 
-const Statistics = ({ style, data }) => {
-
+const Statistics = ({ style }) => {
+    const data = useSelector(state => state.notes);
 
     return(
         <View style={style}>
