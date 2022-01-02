@@ -3,7 +3,7 @@
  
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/48650514/147880275-9689d393-62ab-4e1b-a1c6-53e1f2ce837b.png">
 
-Приложение написано с использоваванием React-native CLI под платформу iOS.
+Приложение написано с использованием React-native CLI под платформу iOS.
 Для запуска приложение необходимо иметь:
 - Node 
 
@@ -31,6 +31,6 @@ Xcode -> Preferences -> Locations
 
 npx react-native start
 
-Запуск симлятора
+Запуск симулятора
 
 npx react-native run-ios
