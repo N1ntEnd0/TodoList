@@ -17,11 +17,11 @@ brew install watchman
 
 brew install cocoapods
 
-Симулятор iOS (я использовал iphone 13)
+- Симулятор iOS (я использовал iphone 13)
 
 Можно скачать из Xcode
 
-Command Line Tools
+- Command Line Tools
 
 Xcode -> Preferences -> Locations 
 
